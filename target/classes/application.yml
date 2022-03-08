@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/db_jobInja
+    username: root
+    password: 3128
+
+
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL5Dialect
+    database: mysql
+    hibernate:
+      ddl-auto: update
+    show-sql: on

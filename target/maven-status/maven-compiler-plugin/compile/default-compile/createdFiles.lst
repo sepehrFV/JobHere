@@ -1,0 +1,17 @@
+ir\mapsa\jobinja\mapper\JobSeekerMapper.class
+ir\mapsa\jobinja\dto\JobSeekerDTO.class
+ir\mapsa\jobinja\mapper\ReservedListMapper.class
+ir\mapsa\jobinja\mapper\EmployerMapper.class
+ir\mapsa\jobinja\mapper\JobNoticeMapper.class
+ir\mapsa\jobinja\dto\JobNoticeDTO.class
+ir\mapsa\jobinja\services\IJobNoticeService.class
+ir\mapsa\jobinja\services\IEmployerService.class
+ir\mapsa\jobinja\mapper\ReservedListMapperImpl.class
+ir\mapsa\jobinja\generic\GenericMapper.class
+ir\mapsa\jobinja\dto\EmployerDTO.class
+ir\mapsa\jobinja\mapper\JobNoticeMapperImpl.class
+ir\mapsa\jobinja\mapper\JobSeekerMapperImpl.class
+ir\mapsa\jobinja\mapper\EmployerMapperImpl.class
+ir\mapsa\jobinja\dto\ReservedListDTO.class
+ir\mapsa\jobinja\services\IReservedListService.class
+ir\mapsa\jobinja\services\IJobSeekerService.class
